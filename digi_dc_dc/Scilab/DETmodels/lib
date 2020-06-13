@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="DETmodels">
+  <macro name="S3Rplant" file="S3Rplant.bin" md5="1bac2fd4ace9a75b76f02c11c24fee20"/>
+  <macro name="S3Rplant3" file="S3Rplant3.bin" md5="1bac2fd4ace9a75b76f02c11c24fee20"/>
+</scilablib>

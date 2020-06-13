@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Thermal">
+  <macro name="add2cauer_Rextra" file="add2cauer_Rextra.bin" md5="ca5cc0ee6974e90fc17b63d45ccb3525"/>
+  <macro name="fitfoster4" file="fitfoster4.bin" md5="827330c2f1e505103db597cbc05f96a1"/>
+  <macro name="foster2cauer" file="foster2cauer.bin" md5="8ed007ad6ddf431119ee14760227bcf1"/>
+  <macro name="foster4" file="foster4.bin" md5="6415346f403dea9fe59a365f1bd014e4"/>
+  <macro name="foster4_s" file="foster4_s.bin" md5="b14e358653865c48a8021d9a1bfc21d6"/>
+  <macro name="getThermal" file="getThermal.bin" md5="e534f45e2ca4eebb68f8775efdc9586f"/>
+  <macro name="plotThermal_Z" file="plotThermal_Z.bin" md5="b641b74d2f46f736e55c59b09520a0f4"/>
+</scilablib>

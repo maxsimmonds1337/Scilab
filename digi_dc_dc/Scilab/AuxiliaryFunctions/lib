@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="AuxiliaryFunctions">
+  <macro name="CycleSpec" file="CycleSpec.bin" md5="59b0c61a1a53cab51f20a3b0a77a78b8"/>
+  <macro name="c2d" file="c2d.bin" md5="e9fcad5a2ad51aa6b0ad2b26353ff38e"/>
+  <macro name="d2c" file="d2c.bin" md5="682b1ffc4f5919c86f7bbd9b8ad22727"/>
+  <macro name="margins" file="margins.bin" md5="7f811fa9c2fd4c4395fe6c1cc70b6d1c"/>
+  <macro name="pade" file="pade.bin" md5="bebd117cdc7089b1ca76db8c2a1b95fc"/>
+  <macro name="plot_2bode" file="plot_2bode.bin" md5="755e85620b74c1c52d9ed0cc13cd9353"/>
+  <macro name="plot_3bode" file="plot_3bode.bin" md5="b22a65096a71a39d092d4d744eba10b4"/>
+</scilablib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="ConverterModels">
+  <macro name="Boost_matrix" file="Boost_matrix.bin" md5="538594c3ae37fbf30f1ba3e8bdb133c3"/>
+  <macro name="Boost_ss_model_2f" file="Boost_ss_model_2f.bin" md5="02dcfcc90f4fce8b1d28599885417348"/>
+  <macro name="Buck_matrix" file="Buck_matrix.bin" md5="ffc69bf70f38af698d33ea59e0b77053"/>
+  <macro name="Buck_ss_model_2f" file="Buck_ss_model_2f.bin" md5="a45b1cc14207f8d31220b249f12f38ec"/>
+  <macro name="Buck_ss_model_dual" file="Buck_ss_model_dual.bin" md5="e53febb239ab9c960cb632b7d4d4cfb5"/>
+  <macro name="Buck_ss_model_leading" file="Buck_ss_model_leading.bin" md5="dadc58db6addb5758ea0535b244eda2e"/>
+  <macro name="dualPWM" file="dualPWM.bin" md5="3d375ca8dd4b841160ede96190e5ee41"/>
+  <macro name="leadingPWM" file="leadingPWM.bin" md5="18ee77af498ab978bb869015cbc6a249"/>
+  <macro name="trailingPWM" file="trailingPWM.bin" md5="bfa56ec5c280063893f0c6a527ced956"/>
+</scilablib>

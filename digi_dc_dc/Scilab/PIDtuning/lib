@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="PIDtuning">
+  <macro name="PID_regulator" file="PID_regulator.bin" md5="675c470f48d9059e0df41d1ff0520990"/>
+  <macro name="PI_regulator" file="PI_regulator.bin" md5="f531dca4c49c0740692d083dfa05d33f"/>
+</scilablib>

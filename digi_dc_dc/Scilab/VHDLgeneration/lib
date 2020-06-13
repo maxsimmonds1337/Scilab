@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="VHDLgeneration">
+  <macro name="PID_reg_scales_3" file="PID_reg_scales_3.bin" md5="a1b27ab3d02537a900265482b2e5bd2b"/>
+  <macro name="write_configuration" file="write_configuration.bin" md5="142ae270ec40952bf79cfa40af152656"/>
+</scilablib>

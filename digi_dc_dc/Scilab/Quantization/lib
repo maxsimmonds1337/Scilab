@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Quantization">
+  <macro name="LimitCycleamp" file="LimitCycleamp.bin" md5="3704ba96337d2492f2224a66ff018102"/>
+  <macro name="LimitCycleamp2" file="LimitCycleamp2.bin" md5="b6193a0848c0c406b000349f2ed9eb8f"/>
+  <macro name="PIDround" file="PIDround.bin" md5="a63a513c9d340e535c4d0a03ad95721d"/>
+  <macro name="Qn" file="Qn.bin" md5="a3c99861d4c344ebf6cc0cc98cec25d0"/>
+  <macro name="limit_cycle" file="limit_cycle.bin" md5="0556b43e6412dd815806533e19c2f088"/>
+</scilablib>

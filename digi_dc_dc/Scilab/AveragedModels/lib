@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="AveragedModels">
+  <macro name="peak_current_mode" file="peak_current_mode.bin" md5="58b74bae97b903bfe5092ca30df9701b"/>
+  <macro name="transferFon" file="transferFon.bin" md5="27cc39eb7b9327b57769c19b537a74e0"/>
+</scilablib>

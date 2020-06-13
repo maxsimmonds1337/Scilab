@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="AnalogRegulators">
+  <macro name="AnalyzeTypeIIopamp" file="AnalyzeTypeIIopamp.bin" md5="a9f27f5267470a6d3361fbe03bb002ad"/>
+  <macro name="calctypeI" file="calctypeI.bin" md5="bebc03a3f4793f0008f01f9b51c1e464"/>
+  <macro name="calctypeII" file="calctypeII.bin" md5="ce3f1a0d8497c82a01b7d6c9bf094dcd"/>
+  <macro name="implementTypeIIopamp" file="implementTypeIIopamp.bin" md5="75c5744ad445348b2f865dae10ce2627"/>
+  <macro name="implementTypeIopamp" file="implementTypeIopamp.bin" md5="d1a21130f5609eea815fbabb75cafd93"/>
+  <macro name="typeI" file="typeI.bin" md5="9928fa59f2e5b64eecf487a2cb5e029f"/>
+  <macro name="typeII" file="typeII.bin" md5="e214e1caeadf29bdac400966e38134ca"/>
+  <macro name="typeIII" file="typeIII.bin" md5="406d52a37d54d04c0fda485593d00061"/>
+</scilablib>
